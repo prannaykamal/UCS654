@@ -1,9 +1,8 @@
 # UCS654
 
 # Sampling
-Taking number of samples, n= (z^2*p*(1-p))/e^2
+Taking number of samples, n= (z^2*p*(1-p))/e^2=384 
 where z=1.96, p=0.5, e=0.05
-n=384
 
 5 sampling techniques used are Simple Random Sampling, Systematic Sampling, Stratified Sampling, Cluster Sampling, Bootstrap Sampling
 5 models used are Logistic Regression, Decision Tree, Random Forest, SVM Classifier, KNN
